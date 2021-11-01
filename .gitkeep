@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Julia Bio</title>
+</head>
+
+<body>
+    <h1>Julia Bio</h1>
+
+    <img src="https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555920374/shape/mentalfloss/787cupcakeipsum.png?itok=5tOabgnp"
+     alt="Cupcake Picture"
+
+     <p> this will be where you talk about yourself blah blah blah</p>
+     <p> another paragraph about you</p>
+    
+</body>
